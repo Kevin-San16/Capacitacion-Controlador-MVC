@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Proyecto3\CapaControlador\bin\x64\x64\CapaControlador.dll
+C:\Users\user\source\repos\Proyecto3\CapaControlador\bin\x64\x64\CapaModelo.dll
+C:\Users\user\source\repos\Proyecto3\CapaControlador\bin\x64\x64\CapaModelo.pdb
+C:\Users\user\source\repos\Proyecto3\CapaControlador\obj\x64\x64\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Proyecto3\CapaControlador\obj\x64\x64\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Proyecto3\CapaControlador\obj\x64\x64\CapaCont.E79CC33A.Up2Date
+C:\Users\user\source\repos\Proyecto3\CapaControlador\obj\x64\x64\CapaControlador.dll

@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Proyecto3\CapaModelo\bin\x64\x64\CapaModelo.dll
+C:\Users\user\source\repos\Proyecto3\CapaModelo\obj\x64\x64\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Proyecto3\CapaModelo\obj\x64\x64\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Proyecto3\CapaModelo\obj\x64\x64\CapaModelo.dll
