@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Proyecto3\CapaVista\bin\x64\Debug\CapaVista.dll
+C:\Users\user\source\repos\Proyecto3\CapaVista\bin\x64\Debug\CapaVista.pdb
+C:\Users\user\source\repos\Proyecto3\CapaVista\bin\x64\Debug\CapaControlador.dll
+C:\Users\user\source\repos\Proyecto3\CapaVista\bin\x64\Debug\CapaModelo.dll
+C:\Users\user\source\repos\Proyecto3\CapaVista\bin\x64\Debug\CapaControlador.pdb
+C:\Users\user\source\repos\Proyecto3\CapaVista\bin\x64\Debug\CapaModelo.pdb
+C:\Users\user\source\repos\Proyecto3\CapaVista\obj\x64\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Proyecto3\CapaVista\obj\x64\Debug\CapaVista.Consulta.resources
+C:\Users\user\source\repos\Proyecto3\CapaVista\obj\x64\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Proyecto3\CapaVista\obj\x64\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Proyecto3\CapaVista\obj\x64\Debug\CapaVista.csproj.Up2Date
+C:\Users\user\source\repos\Proyecto3\CapaVista\obj\x64\Debug\CapaVista.dll
+C:\Users\user\source\repos\Proyecto3\CapaVista\obj\x64\Debug\CapaVista.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\bin\x64\x64\Ejecucion.exe.config
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\bin\x64\x64\Ejecucion.exe
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\bin\x64\x64\CapaVista.dll
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\bin\x64\x64\CapaControlador.dll
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\bin\x64\x64\CapaModelo.dll
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\bin\x64\x64\CapaVista.pdb
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\bin\x64\x64\CapaControlador.pdb
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\bin\x64\x64\CapaModelo.pdb
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\obj\x64\x64\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\obj\x64\x64\Ejecucion.Form1.resources
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\obj\x64\x64\Ejecucion.Properties.Resources.resources
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\obj\x64\x64\Ejecucion.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\obj\x64\x64\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\obj\x64\x64\Ejecucion.csproj.Up2Date
+C:\Users\user\source\repos\ProyectoEjecucion\Ejecucion\obj\x64\x64\Ejecucion.exe
